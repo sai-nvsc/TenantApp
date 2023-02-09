@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tenant App</string>
+    <string name="login_instruction">Sign in with your data that was given to you by your landlord.</string>
+</resources>
